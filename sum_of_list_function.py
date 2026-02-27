@@ -4,5 +4,5 @@ def sum_of(n):
         sum+=i
     return sum
 li = [5,10,15,20]
-print ("sum of the ist is : ", sum_of(li))
+print ("sum of the list is : ", sum_of(li))
 
