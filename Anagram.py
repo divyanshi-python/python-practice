@@ -1,5 +1,5 @@
-s1=input("enter string  ")
-s2=input("enter string  ")
+s1=input("Enter String  ")
+s2=input("Enter String  ")
 if sorted(s1)==sorted(s2):
     print("Anagram")
 else:
